@@ -1,0 +1,13 @@
+{
+  "name": "meu-bot-whatsapp",
+  "version": "1.0.0",
+  "description": "Bot da Drogaria Braga Mendes",
+  "main": "chatbot.js",
+  "scripts": {
+    "start": "node chatbot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.24.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
